@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @LuminousSpace150
+- 👋 Hi, I’m Aaron Gonsalves @LuminousSpace150
 - 👀 I’m interested in most things data science, analytics, web development and learning new technologies.
+- 👨‍💻 Created projects using Python, Excel, Tableau.
+- ⚙️ Like to learn and constantly improve ways to do things differently and efficiently.
 - 🌱 I’m currently learning SSIS, Power BI and Google Cloud Platform.
 - 📫 Reach me on: https://www.linkedin.com/in/aaron-gonsalves-r136a1
 
